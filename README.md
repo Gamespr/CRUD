@@ -20,7 +20,7 @@
 `PUT`
 
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT1.JPG)
-![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT2.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT2.jpg)
 
 `DELETE`
 
