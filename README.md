@@ -6,3 +6,23 @@
 
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/Getall.JPG)
 
+`GET指定資料`
+
+![image](https://github.com/Gamespr/CRUD/blob/main/img/GetID1.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/GetID2.JPG)
+
+`POST`
+
+![image](https://github.com/Gamespr/CRUD/blob/main/img/POST1.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/POST2.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/POST3.JPG)
+
+`PUT`
+
+![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT1.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT2.JPG)
+
+`DELETE`
+
+![image](https://github.com/Gamespr/CRUD/blob/main/img/Delete1.JPG)
+![image](https://github.com/Gamespr/CRUD/blob/main/img/Delete2.JPG)
