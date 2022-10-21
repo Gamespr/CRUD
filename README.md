@@ -17,7 +17,7 @@
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/POST2.JPG)
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/POST3.jpg)
 
-`PUT`
+`PUT  EX1資料修改`
 
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT1.JPG)
 ![image](https://github.com/Gamespr/CRUD/blob/main/img/PUT2.jpg)
